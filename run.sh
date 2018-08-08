@@ -1,1 +1,1 @@
-Rscript test.R
+cat README.md > test.txt
